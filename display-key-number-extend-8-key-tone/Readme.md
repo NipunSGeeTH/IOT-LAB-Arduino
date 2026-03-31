@@ -13,3 +13,4 @@ Submit the following under the specific links provided:
 
 ![alt text](lab2.avif)
 
+<video controls src="untitled.mp4" title="Title"></video>
