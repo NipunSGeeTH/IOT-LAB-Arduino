@@ -13,4 +13,9 @@ Submit the following under the specific links provided:
 
 ![alt text](lab2.avif)
 
-<video controls src="untitled.mp4" title="Title"></video>
+Video (direct link): [untitled.mp4](https://raw.githubusercontent.com/NipunSGeeTH/IOT-LAB-Arduino/main/display-key-number-extend-8-key-tone/untitled.mp4)
+
+<video controls>
+	<source src="https://raw.githubusercontent.com/NipunSGeeTH/IOT-LAB-Arduino/main/display-key-number-extend-8-key-tone/untitled.mp4" type="video/mp4">
+	Your browser does not support the video tag.
+</video>
