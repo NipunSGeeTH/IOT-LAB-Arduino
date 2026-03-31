@@ -1,6 +1,6 @@
 /*
-Name: K.M.N.Sangeeth Kariyapperuma
-Index Number: 230317J
+Name: Sangeeth Kariyapperuma
+Index Number:
 Task: 8-Key Tone Generator
 */
 
