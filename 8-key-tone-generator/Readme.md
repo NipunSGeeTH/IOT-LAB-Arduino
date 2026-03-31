@@ -8,3 +8,5 @@ Design your circuit using Tinker Cad (preferred) or Wokwi simulator.  Once the T
 1.      A full screen image of the circuit, including the date and time displayed in the menu bar (e.g. at the bottom right for a Windows computer)
 
 2.      Arduino code developed for exercise.  Include your name and the index number as comments in the top of the Arduino script.
+
+![alt text](lab1.avif)
